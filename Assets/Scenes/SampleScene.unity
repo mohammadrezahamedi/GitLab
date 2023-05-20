@@ -658,7 +658,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 668994915197339120, guid: fa7b46ff39a150245b2e73c106ae7bb4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -0.31
       objectReference: {fileID: 0}
     - target: {fileID: 668994915197339120, guid: fa7b46ff39a150245b2e73c106ae7bb4, type: 3}
       propertyPath: m_LocalPosition.y
@@ -785,6 +785,19 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1839223682
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1839223678}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecbe0c8f1552d7141ab9d012e40d69b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _favoriteSong: {fileID: 8300000, guid: 126a1185ba04e3147b3b1e96611aec1b, type: 3}
 --- !u!1 &919132148727296372 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7405320601110467890, guid: 370ca21cb0b77e549b0968711fdd9996, type: 3}
