@@ -1,0 +1,1 @@
+In this practice, each participant will add their own dancing model to the dancing floor by collaborating remotely.
